@@ -27,7 +27,7 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: `youremail@example.com`
+- 📧 Email: abdulahad240940@gmail.com
 - 🌐 Portfolio (Coming soon!)
 - 💬 Ask me about electronics, circuits, or embedded coding!
 
